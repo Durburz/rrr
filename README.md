@@ -1,5 +1,5 @@
 # rrr
-reed relay replacement for Onkyo DR-L50 (and others) in the audio path.
+reed relay replacement for Onkyo DR-L50 (and others) in the audio path.<br />
 !!!These replacements are not intended to be used in the AC power part!!!
 
 replacements for following relays are in this repository:
